@@ -1,0 +1,15 @@
+.UserInfo{
+    width:40%;
+    border:1px solid #eee;
+    box-shadow: 0 2px 3px #ccc;
+    padding: 2px;
+    margin: 5px auto;
+    box-sizing: border-box;
+}
+
+.btn {
+  position: absolute;
+  top: 20px;
+  right: 16px;
+  font-size: 18px;
+}
